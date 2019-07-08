@@ -12,7 +12,7 @@ This App lets you track the price of a particular product and send you an email 
 <h3>***The code is highly commented to get the understanding of each functions used.***<h3>
   <br>
 
-![Imgur](https://imgur.com/a/B7lNxNV)
-![Imgur](https://imgur.com/Q87xPkH)
+[Imgur](https://i.imgur.com/uCQa7LZ.png)
+[Imgur](https://i.imgur.com/IZf9f1Z.png)
 
 

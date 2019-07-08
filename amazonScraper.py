@@ -1,6 +1,6 @@
 #### AMAZON WEB SCRAPER ####
 # It is project which i used to track the price of particular
-# product in this case whey protein and send me a an email (SMTP)
+# product in this case tagg bluetooth earphones and send me a an email (SMTP)
 # price drops below a certain required budget whic i have
 # ;)
 

@@ -12,7 +12,14 @@ This App lets you track the price of a particular product and send you an email 
 <h3>***The code is highly commented to get the understanding of each functions used.***<h3>
   <br>
 
-[Imgur](https://i.imgur.com/uCQa7LZ.png)
-[Imgur](https://i.imgur.com/IZf9f1Z.png)
+<h2>Getting Started</h2>
+<ul>
+  <li>Clone the repository and open it any ide.</li>
+    
+  <li>Run the python script on your command prompt</li>
+  <li>Embed your own email and password and required product link</li>
+  
+</ul>
+<h3>And thts it. Have fun!</h3>
 
 
